@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+gtts = "*"
+pyttsx3 = "*"
+soundfile = "*"
+transformers = "*"
+datasets = "*"
+sentencepiece = "*"
+pytesseract = "*"
+opencv-python = "*"
+matplotlib = "*"
+scipy = "*"
+python-levenshtein = "*"
+ipykernel = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
